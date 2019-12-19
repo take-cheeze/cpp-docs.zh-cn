@@ -1,4 +1,4 @@
-﻿---
+---
 ms.openlocfilehash: 69468f9ebbfaed62fd2148a634d16057519323f5
 ms.sourcegitcommit: 010ecc2bb9a15deea192a34975176ec0426aa3d8
 ms.translationtype: HT
